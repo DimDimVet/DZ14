@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3c99a235f299a454a8a56239570f76a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CraftSettings: {fileID: 11400000, guid: 24b9c5a8cdcaac740bdff00b8648482c, type: 2}
+  - craftButton: {instanceID: 0}
+  - gridUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
